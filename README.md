@@ -23,7 +23,9 @@ Solução: Calcular a correlação entre ações e títulos para diversificar o 
 #### Outros Problemas de Negócios:
 
 Previsão de Demanda: A correlação entre fatores como preço e quantidade demandada pode ajudar a prever a demanda futura.
+
 Desempenho de Produtos: Analisar a correlação entre características de produtos e seu desempenho no mercado para melhorar o design e funcionalidades.
+
 Eficiência Operacional: Medir a correlação entre horas de treinamento dos funcionários e a redução de erros operacionais para otimizar programas de treinamento.
 
 #### Conclusão
